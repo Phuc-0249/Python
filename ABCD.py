@@ -1,4 +1,5 @@
 a = int(input())
 b = int(input())
-c = a+b
-print("Tổng hai số vừa nhập là: ",c)
+c = int(input())
+d = a+b+c
+print("Tổng hai số vừa nhập là: ",d)
